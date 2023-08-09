@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning:- **Python and Machine Learning**
 
-- 👨‍💻 All of my projects are available at:- [[https://github.com/MuskanThakur-13](https://github.com/MuskanThakur-13]([https://github.com/MuskanThakur-13](https://github.com/MuskanThakur-13)
+- 👨‍💻 All of my projects are available at:- [https://github.com/MuskanThakur-13]
 
 - 📫 Reach me at:- **muskan130303@gmail.com**
 
