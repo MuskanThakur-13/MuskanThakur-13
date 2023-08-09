@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fsoftware-development-banner&psig=AOvVaw3ZRaJZXCUmIuP0_bs6tPLT&ust=1691667444653000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDB1cC-z4ADFQAAAAAdAAAAABAI)
 <h1 align="center">Hi 👋, I'm Muskan</h1>
 <h3 align="center">A Tech Enthusiast and a Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
 
 - 🔭 I’m currently working as a Summer intern at [Defense Research and Development Organization](https://github.com/MuskanThakur-13/Spam_Ham_Messages)
 
