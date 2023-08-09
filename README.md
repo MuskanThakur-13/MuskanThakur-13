@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fsoftware-development-banner&psig=AOvVaw3ZRaJZXCUmIuP0_bs6tPLT&ust=1691667444653000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDB1cC-z4ADFQAAAAAdAAAAABAI)
+[![MasterHead](https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966)
 <h1 align="center">Hi 👋, I'm Muskan</h1>
 <h3 align="center">A Tech Enthusiast and a Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
