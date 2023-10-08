@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966)
 <h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">A Tech Enthusiast and a Web Developer</h3>
+<h3 align="center">A Tech Enthusiast and a Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
 
 - 🔭 I’m currently working as a Summer intern at [Defense Research and Development Organization](https://github.com/MuskanThakur-13/Spam_Ham_Messages)
